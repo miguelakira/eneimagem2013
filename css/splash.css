@@ -1,0 +1,197 @@
+@CHARSET "UTF-8";
+
+body {
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	margin: auto;
+	background: #E5E5E5;
+	text-align:center;
+	width:1000px;
+	height:700px;
+	}
+	
+#header
+{
+	width: auto;
+	text-align:right;
+	height:30px;
+	margin-top:20px;
+	background: #E5E5E5;
+	padding: 0px 85px 10px 0;
+}
+
+#header a {
+	color: #666666;
+	text-decoration: none;
+	font-weight: bold;
+	font-size:0.8em;
+	}
+
+#content
+{
+	
+	background: #E5E5E5;
+	color:#141414;
+	height:700px;	
+}
+
+#content-imagem {
+	text-align:center;
+	margin:auto;
+	background: #fff url("../img/splash2.jpg");
+	width: 850px;
+	height: 631px;
+	margin-bottom:10px;
+	}
+
+/*****************************/
+/** Miguel Generated CSS =P **/
+/*****************************/
+#justify {
+	text-align: justify;
+	text-justify: newspaper;
+}
+
+#centralize {
+	text-align: center;
+}
+#righty {
+	text-align: right;
+}
+
+/** Cantos arredondados **/
+.top-rounded-corners {
+	-webkit-border-top-left-radius: 10px;
+	-khtml-border-radius-topleft: 10px;	
+	-moz-border-radius-topleft: 10px;
+	border-top-left-radius: 10px;
+	
+	-webkit-border-top-right-radius: 10px;
+	-khtml-border-radius-topright: 10px;	
+	-moz-border-radius-topright: 10px;
+	border-top-right-radius: 10px;
+	}
+
+.top-left-rounded-corners {
+	-webkit-border-top-left-radius: 10px;
+	-khtml-border-radius-topleft: 10px;	
+	-moz-border-radius-topleft: 10px;
+	border-top-left-radius: 10px;
+}
+
+.bottom-left-rounded-corners {
+	-webkit-border-bottom-left-radius: 10px;
+	-khtml-border-radius-bottomleft: 10px;	
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-left-radius: 10px;
+	}
+	
+.bottom-right-rounded-corners{	
+	-webkit-border-bottom-right-radius: 10px;
+	-khtml-border-radius-bottomright: 10px;	
+	-moz-border-radius-bottomright: 10px;
+}
+
+.bottom-rounded-corners {
+	-webkit-border-bottom-left-radius: 10px;
+	-khtml-border-radius-bottomleft: 10px;	
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-left-radius: 10px;
+	
+	-webkit-border-bottom-right-radius: 10px;
+	-khtml-border-radius-bottomright: 10px;	
+	-moz-border-radius-bottomright: 10px;
+	border-bottom-right-radius: 10px;
+	
+	}
+
+.rounded-corners {
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+    behavior:url('../css/border-radius.htc');
+}
+
+.menu-rounded-corners {
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+}
+
+
+h1 {
+font-size:2em;
+text-shadow: 2px 2px 7px #4D4D4D;
+}
+h2 {
+font-size:1.8em;
+text-shadow: 0 1px 0 rgba(255, 255, 255, 0.6);
+
+}
+h3 {
+font-size:1.6em;
+}
+h4 {
+font-size:1.4em;
+}
+h5 {
+font-size:1.2em;
+}
+h6 {
+font-size:1.1em;
+}
+p{
+color:#0D0D0D;
+margin-bottom:15px;	
+}
+small{
+font-size:0.8em;
+	}
+	
+table {
+margin-bottom:10px;
+	}
+td
+{
+border:1px solid #458B74;
+padding:8px;
+text-align:left;
+background-color:#E0EEEE;
+}
+tr.alt td{
+background-color:#F0FFFF;
+color:#000000;
+}
+
+tr.alt-double td{
+background-color:#F0FFFF;
+color:#000000;
+border: 4px solid #458B74; 
+border-style: double; 	
+}
+
+tr.double td{
+background-color:#E0EEEE;
+color:#000000;
+border: 4px solid #458B74; 
+border-style: double; 	
+}
+
+th
+{
+background-color:#458B74;
+color:white;
+padding: 8px;
+}
+
+th.centralize {
+text-align: center;
+}
+
+ul.disc {
+list-style-type: disc;
+margin-left: 10px;
+} 
+
+

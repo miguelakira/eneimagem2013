@@ -1,0 +1,349 @@
+body {
+	font-family: Helvetica, Verdana, Arial, sans-serif; 
+	margin: 0 auto;
+	width: 985px;
+	background: #034F2D url('../img/bg.jpg') repeat-x;
+	}
+	
+#container
+{
+	margin: 0 auto;
+	width: 980px;
+	backgr
+	
+}
+
+#header
+{
+	background: #fff;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#ffffff');
+	background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#ffffff));
+	background: -moz-linear-gradient(top, #fff, #fff);
+	color:#141414;
+	padding:10px 20px 20px 20px;
+	height:193px;
+	margin-top:32px;
+	
+}
+
+#header-imagem 
+{
+	width: 215px;
+	height: 200px;
+	float: left;
+	padding: 0px;
+	margin-right:0px;
+	margin-top: 0px;
+	background: url("../img/header3.jpg") no-repeat;
+}
+
+#header h1 { 
+	margin: 0; 
+	
+	}
+
+#navigation
+{
+	
+	float: left;
+	width: 980px;
+	background: #333;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#333333', endColorstr='#696969');
+	background: -moz-linear-gradient(top, #333, #696969) repeat-X;
+	background: -webkit-gradient(linear, left top, left bottom, from(#333), to(#696969)) repeat-X;	
+}
+
+#navigation ul
+{
+	margin: 0;
+	padding: 0;
+}
+
+#navigation ul li
+{
+	list-style-type: none;
+	display: inline;
+}
+
+#navigation li a
+{
+	display: block;
+	float: left;
+	height: 18.4px;
+	padding: 2px 10px;
+	color: #fff;
+	text-decoration: none;
+	border-right: 1px solid #fff;
+	
+}
+
+#navigation li a:hover { background: #458B74; }
+
+#section-navigation
+{
+	float: left;
+	width: 170px;
+	padding: 0;
+	margin: 15px 5px 10px 10px;
+	display: inline;
+	background: #fff;
+	border: 1px solid #CCCCCC;
+	
+	
+}
+
+#section-navigation ul
+{
+	margin: 0;	
+	padding: 0;
+	background: white;
+}
+
+#section-navigation ul li
+{
+	
+	background: #EBEAEA;
+	margin: 5px;
+	padding: 0;
+	list-style-type: none;
+	border-left:1px solid #ccc;
+	border-right:1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+	
+}
+#section-navigation ul li.novo {
+    background-color: #EBEAEA;
+    background: url("../img/novo.gif") no-repeat;
+	margin: 5px;
+	padding-left: 10px;
+	list-style-type: none;
+	border-left:1px solid #ccc;
+	border-right:1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+
+
+#section-navigation ul li a{
+	display: block;
+	text-decoration: none;
+	color: #333;
+	font-weight: bold;
+	font-size:0.7em;
+	padding: 10px 5px;
+}
+
+#section-navigation li a:hover { 
+	background: #458B74; 
+	color: #fff;
+}
+
+
+#content-container
+{
+	margin-top:10px;
+	float: left;
+	width: 980px;
+	background: #fff url("../img/bg-gray.gif") repeat;
+	border: 2px solid rgba(255, 255, 255, 0.5);
+	
+	
+}
+
+#content
+{
+	float: left;
+	width: 675px;
+	padding: 20px 30px 10px 30px;
+	margin-top: 15px;
+	margin-left: 25px;
+	margin-bottom: 15px;
+	background: #fff;
+	border: 1px solid #CCCCCC;
+}
+
+#content h2 { margin: 0; }
+
+#footer
+{
+	clear: left;
+	background: #333;
+	background: -moz-linear-gradient(top, #777, #333) repeat-X;
+	background: -webkit-gradient(linear, left top, left bottom, from(#777), to(#333)) repeat-X;
+	text-align: right;
+	padding:20px 0;
+	height: 1%;
+	margin-left:2px;
+	
+	width: 100%;
+	margin-bottom:50px;
+	color: grey;
+	text-align:center;
+}
+
+#counter {
+	padding: 5px 0 10px 40px;
+	
+	
+	}
+
+
+/*****************************/
+/** Miguel Generated CSS =P **/
+/*****************************/
+#justify {
+	text-align: justify;
+	text-justify: newspaper;
+}
+
+#centralize {
+	text-align: center;
+}
+#righty {
+	text-align: right;
+}
+
+/** Cantos arredondados **/
+.top-rounded-corners {
+	-webkit-border-top-left-radius: 10px;
+	-khtml-border-radius-topleft: 10px;	
+	-moz-border-radius-topleft: 10px;
+	border-top-left-radius: 10px;
+	
+	-webkit-border-top-right-radius: 10px;
+	-khtml-border-radius-topright: 10px;	
+	-moz-border-radius-topright: 10px;
+	border-top-right-radius: 10px;
+	}
+
+.top-left-rounded-corners {
+	-webkit-border-top-left-radius: 10px;
+	-khtml-border-radius-topleft: 10px;	
+	-moz-border-radius-topleft: 10px;
+	border-top-left-radius: 10px;
+}
+
+.bottom-left-rounded-corners {
+	-webkit-border-bottom-left-radius: 10px;
+	-khtml-border-radius-bottomleft: 10px;	
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-left-radius: 10px;
+	}
+	
+.bottom-right-rounded-corners{	
+	-webkit-border-bottom-right-radius: 10px;
+	-khtml-border-radius-bottomright: 10px;	
+	-moz-border-radius-bottomright: 10px;
+}
+
+.bottom-rounded-corners {
+	-webkit-border-bottom-left-radius: 10px;
+	-khtml-border-radius-bottomleft: 10px;	
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-left-radius: 10px;
+	
+	-webkit-border-bottom-right-radius: 10px;
+	-khtml-border-radius-bottomright: 10px;	
+	-moz-border-radius-bottomright: 10px;
+	border-bottom-right-radius: 10px;
+	
+	}
+
+.rounded-corners {
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -khtml-border-radius: 10px;
+    border-radius: 10px;
+    behavior:url('../css/border-radius.htc');
+}
+
+.menu-rounded-corners {
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+}
+
+
+h1 {
+font-size:2em;
+text-shadow: 2px 2px 7px #4D4D4D;
+}
+h2 {
+font-size:1.8em;
+text-shadow: 0 1px 0 rgba(255, 255, 255, 0.6);
+
+}
+h3 {
+font-size:1.6em;
+}
+h4 {
+font-size:1.4em;
+}
+h5 {
+font-size:1.2em;
+}
+h6 {
+font-size:1.1em;
+}
+p{
+color:#0D0D0D;
+margin-bottom:15px;	
+}
+small{
+font-size:0.8em;
+	}
+	
+table {
+margin-bottom:10px;
+	}
+td
+{
+border:1px solid #458B74;
+padding:8px;
+text-align:left;
+background-color:#E0EEEE;
+}
+tr.alt td{
+background-color:#F0FFFF;
+color:#000000;
+}
+
+tr.alt-double td{
+background-color:#F0FFFF;
+color:#000000;
+border: 4px solid #458B74; 
+border-style: double; 	
+}
+
+tr.double td{
+background-color:#E0EEEE;
+color:#000000;
+border: 4px solid #458B74; 
+border-style: double; 	
+}
+
+th
+{
+background-color:#458B74;
+color:white;
+padding: 8px;
+}
+
+th.centralize {
+text-align: center;
+}
+
+ul.disc {
+list-style-type: disc;
+margin-left: 10px;
+} 
+
+li.novo {
+background: url("../img/novo.gif") no-repeat;
+}
+
+img.left {
+	float: left;
+	margin-right: 15px;
+	padding-bottom:20px;
+}
