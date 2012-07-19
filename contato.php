@@ -6,13 +6,7 @@
 <?php include "header.php"; ?>
 <body>
 <div id="container">
-  <div id="header">
-    <div id="header-imagem" class = "rounded-corners">
-    </div>
-
-    <br /><br />
-      <img src="img/eneimagem-red-grad-data.jpg">
-  </div>
+  <?php include "logo.php"; ?>
   <?php include "top-menu.php"; ?>
 
   <?php include "menu.php"; ?>  
