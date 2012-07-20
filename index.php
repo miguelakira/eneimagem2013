@@ -18,48 +18,13 @@
 </h1>
 <hr>
 <small>
-<p>O Laboratório de Estudos dos Domínios da Imagem (LEDI) está mais uma
-vez promovendo o Encontro Nacional de Estudos da Imagem. Nesta terceira
-versão, pretende-se dar continuidade a proposta de promover o encontro
-de pesquisadores que tenham como tema a Imagem e/ou a discussão da
-representação da imagem em suas pesquisas, tornando-se, portanto, um
-lócus privilegiado para a divulgação de uma produção científica a
-respeito e proporcionando o intercâmbio entre as várias áreas do
-conhecimento.</p>
-<p>Neste evento, além de contar com o seu parceiro habitual, o Programa
-de Pós-graduação em História Social, terá a participação do Programa de
-Pós-graduação em Comunicação Visual da UEL, que contará especialmente
-com o segundo dia do evento (dia 04 de maio) para atender suas
-principais demandas teóricas e práticas em uma mesa-redonda e uma
-conferência.</p>
-<p>Com a leitura da programação (link específico ao lado), poder-se-á
-verificar os nomes dos conferencistas e demais palestrantes das
-mesas-redondas e a dimensão qualitativa da proposta em questão, com a
-participação de vários pesquisadores de diversas IES, inclusive com dois
-convidados da Colômbia. Da mesma forma, espera-se que as comunicações
-venham a contribuir neste debate.</p>
-<p>Optou-se em não repetir o modelo anterior que embora tenha se
-mostrado bastante prático e bastante confiável. A principal mudança
-deu-se na construção de eixos temáticos (veja lista em link específico),
-ou seja, ao proponente de comunicação da pesquisa é dada a possibilidade
-da escolha do eixo que melhor se adéque ao seu trabalho. Cada eixo
-temático terá um coordenador que encaminhará o material para o parecer
-dos membros da comissão científica. Após a análise de todo o material os
-coordenadores dos eixos temáticos constituirão as mesas de comunicação.
-Novamente será permitido que grupos de pesquisadores proponham
-mesas-coordenadas nas sessões de comunicação, independente de escolha de
-eixo.</p>
-<p>Portanto, a proposta do evento em questão está atrelada ao incentivo
-e desenvolvimento do conhecimento científico sobre os estudos da imagem
-no Brasil e, particularmente, na região norte do Paraná, assim como no
-restante do Estado, fortalecendo os grupos de pesquisa já formados e
-estimulando a formação de outros. O Encontro deverá, novamente,
-apresentar êxito quanto ao seu caráter multidisciplinar, ao envolver
-pesquisadores das mais diversas áreas de conhecimento e instituições.  </p>
-<p>Espera-se o comparecimento de cerca de 600 pessoas, não só da cidade
-de Londrina, como também do estado do Paraná, do Brasil e do exterior.
-Deve-se destacar a transmissão on-line das conferências e
-mesas-redondas, objetivando atender um público que não pode comparecer.</p>
+
+<p>O Laboratório de Estudos dos Domínios da Imagem <b>(LEDI)</b> está mais uma vez promovendo o <b>Encontro Nacional de Estudos da Imagem (ENEIMAGEM)</b>. Os eventos do ENEIMAGEM (2007, 2009 e 2011) foram marcados pelo alto nível das comunicações, palestras e conferências. Pesquisadores de quase todos os estados e de outros países. Assim também ocorreu com nossos convidados do Brasil (UFF, UERJ, USP, UFES, UNIFESP, UNB, UFRGS, UFU entre outras IES) e do Exterior, de várias áreas do conhecimento. A presença de pesquisadores estrangeiros, deste o primeiro encontro, é uma característica que se faz notar. No ENEIMAGEM de 2011 foi cobrada à Comissão Organizadora a transformação em evento internacional. Portanto, atendendo aos pedidos, a quarta versão do ENEIMAGEM também terá a denominação de <b>I Encontro Internacional de Estudos da Imagem.</b></p>
+<p>Pretende-se dar continuidade a proposta de promover o encontro de pesquisadores que tenham como tema a Imagem e/ou a discussão da representação da imagem em suas pesquisas, tornando-se, portanto, um lócus privilegiado para a divulgação de uma produção científica a respeito e proporcionando o intercâmbio entre as várias áreas do conhecimento.</p>
+<p>Com a leitura da <a href='programacao.php'>programação</a>, poder-se-á verificar os nomes dos conferencistas e demais palestrantes das mesas-redondas e a dimensão qualitativa da proposta em questão, com a participação de vários pesquisadores de diversas IES, inclusive com convidados da Colômbia, México, Uruguai, França e Itália. Da mesma forma, espera-se que as comunicações venham a contribuir neste debate.</p>
+<p>Optou-se em repetir o modelo anterior que se mostrou bastante prático e bastante confiável. Assim, manter-se-á os eixos temáticos do último encontro (veja lista em link específico). Ao proponente de comunicação da pesquisa é dada a possibilidade da escolha do eixo que melhor se adéque ao seu trabalho. Cada eixo temático terá um coordenador (escolhido pela Comissão Organizadora) que encaminhará o material para o parecer dos membros da comissão científica. Após a análise de todo o material os coordenadores dos eixos temáticos constituirão as mesas de comunicação. Novamente será permitido que grupos de pesquisadores proponham mesas-coordenadas nas sessões de comunicação, independente de escolha de eixo. A novidade que será a exigência de um resumo expandido, para melhor compreensão da pesquisa a ser apresentada.</p>
+<p>Portanto, a proposta do evento em questão está atrelada ao incentivo e desenvolvimento do conhecimento científico sobre os estudos da imagem nos níveis internacional e nacional e, particularmente, na região norte do Paraná, na busca do fortalecendo os grupos de pesquisas já formados e estimulando a formação de outros. O Encontro deverá, novamente, apresentar êxito quanto ao seu caráter multidisciplinar, ao envolver pesquisadores das mais diversas áreas de conhecimento e instituições. </p>
+<p>Espera-se o comparecimento de cerca de 800 pessoas, não só da cidade de Londrina, como também do estado do Paraná, do Brasil e do exterior. Deve-se destacar a transmissão on-line das conferências e mesas-redondas, objetivando atender um público que não pode comparecer. No último encontro esta iniciativa se mostrou profícua, com mais de 800 acessos nos quatro dias do evento.</p>
 </div>
 <div id="justify">
 <h1>
