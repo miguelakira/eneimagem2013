@@ -39,7 +39,7 @@
 
 <li><p>O contato entre pesquisadores de diversas áreas e instituições sobre o tema;</p></li>
 
-<li><p>A divulgação das comunicações em Anais eletrônicos e via internet, na página da internet do III ENEIMAGEM (http://www.uel.br/eventos/eneimagem);</p></li>
+<li><p>A divulgação das comunicações em Anais eletrônicos e via internet, na página da internet do <a href="http://www.uel.br/eventos/eneimagem">III ENEIMAGEM</a> ;</p></li>
 
 <li><p>Integração ensino, pesquisa e extensão, em diversos níveis;</p></li>
 
