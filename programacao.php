@@ -18,7 +18,7 @@
 
 <br />
 <h4><br />
-03/05/2011 – Terça-Feira:</h4>
+07/05/2013 – Terça-Feira:</h4>
 <table border="1">
   <tr>
     <th>Horário</th>
@@ -34,7 +34,7 @@
   </tr>
   <tr class = "double">
     <td>09:00</td>
-    <td>Conferência de abertura: Prof. Dr. Ulpiano Toledo Bezerra de Meneses (USP)</td>
+    <td>Conferência de abertura</td>
   </tr>
   <tr  class="alt">
     <td>12:00</td>
@@ -58,12 +58,8 @@
   </tr>
   <tr class = "double">
     <td>19:30</td>
-    <td>Mesa-Redonda: Educação e Imagem <br />
-    <br />
-    Profª. Drª. Nilda Alves (UERJ) <br />
-    Prof. Dr. Aristóteles Berino (UFRRJ) <br />
-    Prof. Dr. Marco Silva (USP) <br /> <br />
-    Mediadora: Profª. Drª. Terezinha Oliveira (Dep. Fund. da Educação/UEM)
+    <td>Mesa-Redonda<br />
+    
     </td>
   </tr>
 </table>
@@ -71,7 +67,7 @@
 
 <br />
 <h4><br />
-04/05/2011 – quarta-feira:</h4>
+08/05/2013 – quarta-feira:</h4>
 
 
 <table border="1">
@@ -81,15 +77,8 @@
   </tr>
   <tr class="double">
     <td>08:30</td>
-    <td>Mesa-Redonda: Fotojornalismo e Memória: a importância da
-    fotografia de imprensa para a recuperação e preservação da memória da
-    sociedade. <br />
-    <br />
-    Sérgio Sade (ex-editor de fotografia da revista Veja, Universidade
-    Positivo) <br />
-    Ricardo Chaves (Editor de fotojornalismo de Zero Hora) <br />
-    Prof. Airton Procópio (depto. de Comunicação/UEL) <br /> <br />
-    Mediador: Prof. Dr. Paulo César Boni (Dep. de Comunicação/UEL)</td>
+    <td>Mesa-Redonda<br />
+    </td>
   </tr>
   <tr  class="alt">
     <td>12:00</td>
@@ -97,18 +86,12 @@
   </tr>
   <tr>
     <td>14:00</td>
-    <td>Mesa-Redonda: Imagens e Representações da Imigração no Brasil<br /><br />
-            Profª. Drª. Ismênia de Lima Martins (PPGH/LABHOI e NEMIC/UFF)<br />
-            Profª. Drª. Ana Mauad (PPGH/LABHOI/UFF)<br />
-            Profª Drª. Andréa Telo da Côrte (CEHF/MHAERJ e NEMIC/UFF)<br />
-            Profª Drª. Mariléia Inoue (ESS/UFRJ e NEMIC/UFF)<br /><br />
-          Mediador: Prof. Dr. Alberto Gawryszewski (Dep. de História/UEL)</td>
-
-            </td>
+    <td>Mesa-Redonda<br />
+    </td>
   </tr>
   <tr class="alt-double">
     <td>20:00</td>
-    <td>Conferência: Prof. Dr. Boris Kossoy (ECA-USP)</td>
+    <td>Conferência</td>
   </tr>
 </table>
 
@@ -117,7 +100,7 @@
 
 <br />
 <h4><br />
-05/05/2011 – Quinta-Feira:</h4>
+09/05/2013 – Quinta-Feira:</h4>
 
 
 <table>
@@ -127,13 +110,9 @@
   </tr>
   <tr class = "double">
     <td>08:30</td>
-    <td>Mesa-Redonda: Imagens demoníacas <br />
-    <br />
-    Profª Drª. Beatriz Rossells (Universidade Mayor de San Andrés - La Paz/Bolívia) </b> <br />
-    Prof. Dr. Jaime Humberto Borja Gómez (Universidad de los Andes de Bogotá –
-    Colômbia) <br />
-    Prof. Dr. Alfredo Oliva (UEL) <br /> <br />
-    Medidora: Profª. Drª. Angelita Marques Visalli (Dep. História/UEL)</td>
+    <td>Mesa-Redonda <br />
+    
+    </td>
   </tr>
   <tr class="alt">
     <td>12:00</td>
@@ -157,12 +136,9 @@
   </tr>
   <tr class = "double">
     <td>20:00</td>
-    <td>Mesa-Redonda: Cinema, História e Cultura<br />
+    <td>Mesa-Redonda<br />
     <br />
-    Prof. Dr. Jorge Luiz Novoa (UFBA) <br />
-    Prof. Dr. Alexandre Valim (UFSC) <br />
-    Profª. Drª. Tânia Montoro (UNB) <br /> <br />
-    Mediadora: Profª. Drª. Márcia Rorato (Dep. Letras/UEL)</td>
+    </td>
   </tr>
 </table>
 
@@ -170,7 +146,7 @@
 
 <br />
 <br />
-<h4>06/05/2011 – Sexta-Feira</h4>
+<h4>10/05/2013 – Sexta-Feira</h4>
 
 
 
@@ -181,13 +157,9 @@
   </tr>
   <tr class = "double">
     <td>08:30</td>
-    <td>Mesa-Redonda: Análise de Imagens<br />
+    <td>Mesa-Redonda<br />
     <br />
-    Prof. Dr. Carlos Alberto Sampaio Barbosa (UNESP-ASSIS – Dep. História)
-    <br />
-    Profª. Drª. Silvia Maria Azevedo (UNESP-Assis – Dep. Letras) <br />
-    Profª. Drª. Elaine Dias (UNIFESP) <br /> <br />
-    Mediadora: Profª. Drª. Edméia Ribeiro - (Dep. História/UEL </td>
+    </td>
   </tr>
   <tr class="alt">
     <td>12:00</td>
@@ -211,8 +183,8 @@
   </tr>
   <tr class = "double">
     <td>20:00</td>
-    <td>Conferência de encerramento: Prof. Dr. Yobenj Chicangana-Bayona
-    (Universidad Nacional de Colombia – sede Medellin)</td>
+    <td>Conferência de encerramento
+    </td>
   </tr>
 </table>
 </div>

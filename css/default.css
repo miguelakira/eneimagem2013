@@ -198,7 +198,21 @@ body {
 #centralize {
 	text-align: center;
 }
+
 #righty {
+	text-align: right;
+}
+
+.justify {
+	text-align: justify;
+	text-justify: newspaper;
+}
+
+.centralize {
+	text-align: center;
+}
+
+.righty {
 	text-align: right;
 }
 
