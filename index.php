@@ -33,35 +33,19 @@
 <hr>
 <ul class="disc">
   <li>
-  <p>A promoção de discussões a respeito dos estudos da imagem, da
-  representação, da preservação de acervo imagético entre outras;</p>
-  </li>
-  <li>
-  <p>A divulgação de conhecimento produzido através de conferências,
-  mesas-redondas e comunicações de pesquisa;</p>
-  </li>
-  <li>
-  <p>O contato entre pesquisadores de diversas áreas e instituições sobre
-  o tema;</p>
-  </li>
-  <li>
-  <p>A divulgação das comunicações em Anais eletrônicos e via internet,
-  na página da internet do III ENEIMAGEM
-  (http://www.uel.br/eventos/eneimagem);</p>
-  </li>
-  <li>
-  <p>Integração ensino, pesquisa e extensão, em diversos níveis;</p>
-  </li>
-  <li>
-  <p>integração de pesquisadores, nos diversos campos do saber, que
-  debatem a imagem como fonte de pesquisa, a troca de experiências e
-  conhecimentos, como, também, divulgação dos resultados de suas
-  pesquisas.</p>
-  </li>
-  <li>
-  <p>O fortalecimento dos grupos de pesquisa e a formação de outros,
-  particularmente na região.</p>
-  </li>
+ <li><p>A promoção de discussões a respeito dos estudos da imagem, da representação, da preservação de acervo imagético entre outras;</p></li>
+
+<li><p>A divulgação de conhecimento produzido através de conferências, mesas-redondas e comunicações de pesquisa;</p></li>
+
+<li><p>O contato entre pesquisadores de diversas áreas e instituições sobre o tema;</p></li>
+
+<li><p>A divulgação das comunicações em Anais eletrônicos e via internet, na página da internet do III ENEIMAGEM (http://www.uel.br/eventos/eneimagem);</p></li>
+
+<li><p>Integração ensino, pesquisa e extensão, em diversos níveis;</p></li>
+
+<li><p>integração de pesquisadores, nos diversos campos do saber, que debatem a imagem como fonte de pesquisa, a troca de experiências e conhecimentos, como, também, divulgação dos resultados de suas pesquisas.</p></li>
+
+<li><p>O fortalecimento dos grupos de pesquisa e a formação de outros, particularmente na região.</p></li>
 </ul>
 </div>
 <div id="justify">
@@ -127,14 +111,20 @@
 <hr>
 <ul class = "disc">
 <li><p>Curso de Especialização em História Social e Ensino de História</p></li>
+<li><p>Curso de Especialização em Religião e Religiosidades</p></li>
+<li><p>Curso de Especialização em Patrimônio e História</p></li>
 <li><p>Programa de Pós-graduação em História Social</p></li>
 <li><p>Programa de Pós-graduação em Comunicação Visual</p></li>
+
+<p><h1>Esperados</h1></p>
 <hr >
 <img src = "img/capes.jpg"> 
 <li><p> Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES</p></li>
 <br>
 <img src = "img/araucaria.jpg">
 <li><p> Fundação Araucária</p></li>
+<img src = "img/logo_cnpq.jpg">
+<li><p> CNPq</p></li>
 </small>
 </div>
 
