@@ -132,9 +132,7 @@
 </div>
 </div>
 </div>
-<div id="footer" class = "bottom-rounded-corners">
-      LEDI© Todos os Direitos Reservados.
-</div>
+<?php include "footer.php"; ?>  
 </body>
 </html>
 
