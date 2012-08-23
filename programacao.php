@@ -24,44 +24,23 @@
     <th>Horário</th>
     <th>Evento</th>
   </tr>
-  <tr>
-    <td>08:00</td>
-    <td>Credenciamento e distribuição do material</td>
-  </tr>
-  <tr  class="alt-double">
-    <td>08:30</td>
-    <td>Cerimônia de Abertura</td>
-  </tr>
-  <tr class = "double">
-    <td>09:00</td>
-    <td>Conferência de abertura</td>
-  </tr>
-  <tr  class="alt">
-    <td>12:00</td>
-    <td>Intervalo para Almoço</td>
-  </tr>
-  <tr>
-    <td>14:00</td>
-    <td>Sessões de Comunicações</td>
-  </tr>
-  <tr  class="alt">
-    <td>15:30</td>
-    <td>Cafezinho</td>
-  </tr>
-  <tr>
-    <td>16:00</td>
-    <td>Sessões de Comunicações</td>
-  </tr>
-  <tr  class="alt">
+    <tr  class="alt">
     <td>18:00</td>
-    <td>Lançamento de livros e atividade cultural</td>
+    <td>Início do credenciamento e distribuição do material (07 e 08 de maio)
+</td>
   </tr>
   <tr class = "double">
     <td>19:30</td>
-    <td>Mesa-Redonda<br />
+    <td>Cerimônia de Abertura<br />
     
     </td>
   </tr>
+
+    <tr  class="alt">
+    <td>20:00</td>
+    <td>Conferência de abertura<br />
+Profa. Dra. Marie José Mondzain (CNRS/França)
+</td></tr>
 </table>
 
 
@@ -75,9 +54,12 @@
     <th>Horário</th>
     <th>Evento</th>
   </tr>
-  <tr class="double">
+  <tr class="alt double">
     <td>08:30</td>
-    <td>Mesa-Redonda<br />
+    <td>Mesa-Redonda “Humor Gráfico”<br >
+      Profa. Dra Diana Luz Ceballo Gómez (Universidad Nacional de Colombia, Medellín) <br>
+Profa. Dra. Fausta Gantús (Universidad Autónoma de México) <br>
+Profa. Dra. Maria Francisca Pires (Universidade Federal de Viçosa) <br>
     </td>
   </tr>
   <tr  class="alt">
@@ -86,13 +68,21 @@
   </tr>
   <tr>
     <td>14:00</td>
-    <td>Mesa-Redonda<br />
+    <td>Sessões de Comunicações
+<br />
     </td>
   </tr>
-  <tr class="alt-double">
-    <td>20:00</td>
-    <td>Conferência</td>
-  </tr>
+
+<tr class="alt">
+  <td>15:30</td>
+<td>Cafezinho</td></tr>
+<tr><td>16:00</td>
+<td>Sessões de Comunicações</td></tr>
+<tr class="alt"><td>18:00</td>
+<td>Atividade cultural</td></tr>
+<tr class="double"><td>20:00</td>
+<td >Conferência <br>
+Prof. Dr. Jaime Humberto Borja Gomez (Universidad De Los Andes, Bogotá)</td></tr>
 </table>
 
 
@@ -108,38 +98,27 @@
     <th>Horário</th>
     <th>Evento</th>
   </tr>
-  <tr class = "double">
-    <td>08:30</td>
-    <td>Mesa-Redonda <br />
-    
-    </td>
-  </tr>
-  <tr class="alt">
-    <td>12:00</td>
-    <td>Intervalo para Almoço</td>
-  </tr>
-  <tr>
-    <td>14:00</td>
-    <td>Sessões de Comunicações</td>
-  </tr>
-  <tr class="alt">
-    <td>15:30</td>
-    <td>Cafezinho</td>
-  </tr>
-  <tr>
-    <td>16:00</td>
-    <td>Sessões de Comunicações</td>
-  </tr>
-  <tr class="alt">
-    <td>18:00</td>
-    <td>Atividade cultural</td>
-  </tr>
-  <tr class = "double">
-    <td>20:00</td>
-    <td>Mesa-Redonda<br />
-    <br />
-    </td>
-  </tr>
+  
+<tr class="double"><td>08:30</td>
+<td>Mesa-Redonda “Análise de Imagens” <br>
+Profa. Dra. Angelita M. Visalli (Universidade Estadual de Londrina)<br>
+
+Prof. Dr. Eduardo Moretin (Universidade de São Paulo/ECA)<br>
+
+Prof. Dr. Maurício Lissovsky (Universidade Federal do Rio de Janeiro/ ECO)</td></tr>
+<tr class="alt"><td>12:00</td>
+<td>Intervalo para Almoço</td></tr>
+<tr><td>14:00</td>
+<td>Sessões de Comunicações</td></tr>
+<tr class="alt"><td>15:30</td>
+<td>Cafezinho</td></tr>
+<tr><td>16:00</td>
+<td>Sessões de Comunicações</td></tr>
+<tr class="alt"><td>18:00</td>
+<td>Atividade cultural</td></tr>
+<tr class="double"><td>20:00</td>
+<td>Mesa-Redonda “Arte de criar” <br>
+No aguardo dos aceites </td></tr>
 </table>
 
 
@@ -155,37 +134,26 @@
     <th>Horário</th>
     <th>Evento</th>
   </tr>
-  <tr class = "double">
-    <td>08:30</td>
-    <td>Mesa-Redonda<br />
-    <br />
-    </td>
-  </tr>
-  <tr class="alt">
-    <td>12:00</td>
-    <td>Intervalo para Almoço</td>
-  </tr>
-  <tr>
-    <td>14:00</td>
-    <td>Sessões de Comunicações</td>
-  </tr>
-  <tr class="alt">
-    <td>15:30</td>
-    <td>Cafezinho</td>
-  </tr>
-  <tr>
-    <td>16:00</td>
-    <td>Sessões de Comunicações</td>
-  </tr>
-  <tr class="alt">
-    <td>18:00</td>
-    <td>Atividade cultural</td>
-  </tr>
-  <tr class = "double">
-    <td>20:00</td>
-    <td>Conferência de encerramento
-    </td>
-  </tr>
+  <tr class="double"><td>08:30</td>
+  <td>Mesa-Redonda “Patrimônio e memória” <br>
+    Prof. Dr. Pedro Luis Puntoni ((Universidade de São Paulo)) <br>
+    No aguardo dos demais aceites</td></tr>
+<tr class="alt"><td>12:00</td>
+<td>Intervalo para Almoço</td></tr>
+<tr><td>14:00</td>
+<td>Sessões de Comunicações</td></tr>
+<tr class="alt"><td>15:30</td>
+<td>Cafezinho</td></tr>
+<tr><td>16:00</td>
+<td>Sessões de Comunicações</td></tr>
+<tr class="alt"><td>18:00</td>
+<td>Atividade cultural</td>
+</tr>
+<tr class="double">
+  <td>20:00</td>
+<td >Conferência de encerramento <br>
+Prof. Dr. Antonio Rodriguez de Las Heras (Universidad Carlos III de Madrid/Espanha)</td>
+</tr>
 </table>
 </div>
   </div>
@@ -195,4 +163,6 @@
 <?php include "footer.php"; ?>  
 </body>
 </html>
+
+
 

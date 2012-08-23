@@ -26,7 +26,7 @@
 <tr>
 <td>1</td>
 <td>Álbum de família</td> 
-<td>Alberto Gawryszewski</td>
+<td>Richard André</td>
 
 <tr class = "alt">
 <td>2</td>
@@ -61,7 +61,7 @@
 <tr>
 <td>7</td>
 <td>Pesquisa em imagens: debates teóricos</td> 
-<td>Edméia Ribeiro</td>
+<td>Carlos Alberto S. Barbosa</td>
 </tr>
 
 <tr class = "alt">
@@ -79,7 +79,7 @@
 <tr class = "alt">
 <td>10</td>
 <td>História e cinema</td> 
-<td>Márcia Rorato</td>
+<td>Maria Renata Duran</td>
 </tr>
 
 <tr>
@@ -91,7 +91,7 @@
 <tr class = "alt">
 <td>12</td>
 <td>História e imprensa</td> 
-<td>Paulo Boni</td>
+<td>Rogério Ivano</td>
 </tr>
 
 <tr>
@@ -115,12 +115,6 @@
 <tr class = "alt">
 <td>16</td>
 <td>Patrimônio Cultural e Imagem</td>
-<td>Zueleide Casagrande de Paula</td>
-</tr>
-
-<tr>
-<td>17</td>
-<td>Imagens Urbanas</td> 
 <td>Zueleide Casagrande de Paula</td>
 </tr>
 

@@ -28,19 +28,11 @@
 <p>Profª. Dra. Cláudia Eliane P. M.Martinez – UEL</p>
 <p>Profª. Dra. Edméia Ribeiro – UEL</p>
 <p>Profª. Dra. Márcia Rorato - UEL</p>
-<p>Profª. Dra. Zueleide Casagrande de Paula - UEL</p>
+<p>Prof. Dr. Carlos Alberto Barbosa – UNESP/Assis</p>
 <p>Prof. Dr. Paulo Alves - UEL</p>
 <p>Prof. Dr. Paulo Boni - UEL</p>
 <p>Profª. Dra. Terezinha Oliveira - UEM</p>
  
-<hr>
-<p><b>Monitores do LEDI</b></p>
- 
-<p>Ana Flávia Dias Zammataro</p>
-<p>Alex Eloi Nogueira</p>
-<p>Brayan Lee Thompson Avila</p>
-<p>Karina Lisboa Verlingue</p>
-<p>Miguel Akira Ykeuti Meiga</p>
 
   </div>
 </div>
